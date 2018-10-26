@@ -8,5 +8,5 @@ Candidate will be asked extend the implementation with new features.
 A candidate is allowed to use any resources as if they are developing/troubleshooting normally.  Including asking for help from the conductor of the excercise.
 
 ## Pre-requisits
-Candidate should come prepared with an env they can configure to edit and run code.
+Candidate should come prepared with an env they can configure to edit and run php based code.
 They must have working git, and can access and pull down git repo.
