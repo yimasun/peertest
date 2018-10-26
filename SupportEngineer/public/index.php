@@ -88,7 +88,6 @@ $app->get('/login', function (Request $request, Response $response, array $args)
 });
 
 $app->get('/user/{id}', function (Request $request, Response $response, array $args) {
-    global $database;
     $id = $args['id'];
     $entityManager = $database->getEntityManage();
 
